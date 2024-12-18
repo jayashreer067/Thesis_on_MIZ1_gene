@@ -93,6 +93,10 @@ Species-specific expression patterns were also noted. For example, in _Vitis vin
 
 The findings of this study suggest that the _MIZ1_ gene is integral to land plant evolution, with its role in water management and abiotic stress tolerance being conserved across plant lineages. The gene’s expression patterns, particularly in the roots during stress conditions, emphasize its ongoing relevance in plant survival. The evolutionary dynamics of MIZ1, shaped by gene duplication events, reflect the gene's adaptation to different environmental challenges as plants transitioned from aquatic to terrestrial habitats. These results not only provide a deeper understanding of _MIZ1_'s functional evolution but also contribute to the broader context of plant adaptation to land.
 
+**Acknowledgments**
+
+Gratitude is extended to Dr. Daniela Dietrich and Dr. Jordi Paps Montserrat for their invaluable guidance, and the University of Bristol for supporting this research.
+
 References: 
 1.	Iino M. Toward understanding the ecological functions of tropisms: interactions among and effects of light on tropisms. Curr Opin Plant Biol. 2006;9(1):89-93.
 2.	Gilroy ES, Masson PH. PLANI IR0 PISMS.
